@@ -45,7 +45,7 @@ h2{
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left center;
+    background-position: 0% 80%;
 }
 
 .experience-item{
